@@ -19,6 +19,19 @@ Hey there, I'm Tina, a passionate self-taught iOS developer who's in love with c
 - Travel Categories
   - Dependency Injection and Network Errors
   - NavigationLazyView Bug Fix
+- Destinations
+- Swiping with PageViewController
+  - Integrate Swiping with UIPageViewController and UIHostingController
+  - Load Images from Internet in PageViewController
+  - Fetch Destination Details from API
+- Restaurant
+  - Fetch PopularDishes Nested JSON
+  - Customer Reviews with Ratings
+- Photo Grid View
+- User View
+  - Post Card Layout View
+  - Fetch UserDetails JSON
+- Dark Mode
 
 
 

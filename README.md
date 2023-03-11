@@ -13,6 +13,12 @@ Hey there, I'm Tina, a passionate self-taught iOS developer who's in love with c
   <img src="Travel2.png" width="300" />
 </p> 
 
+- Home Screen Layout
+  - Linear Gradient and ZStack Layers
+  - Reduce Code Duplication with ViewModifiers
+- Travel Categories
+  - Dependency Injection and Network Errors
+  - NavigationLazyView Bug Fix
 
 
 

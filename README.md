@@ -6,7 +6,7 @@ Hey there, I'm Tina, a passionate self-taught iOS developer who's in love with c
 
 
 ## Portfolio ☕
-#### List out of transactions under various created credit cards with categories as your own preference, including beautiful crystal reports on iPad as your unique asset.
+#### Utilize of MapKit as UIKit which integrates with SwiftUI and fetches user details in JSONDecoder
 
 <p float="left">
   <img src="Travel1.png" width="300" />
